@@ -14,4 +14,3 @@ ActiveRecord::Base.establish_connection(
   :adapter => "sqlit3",
   :databse => "db/artists.sqlite"
 )
-
